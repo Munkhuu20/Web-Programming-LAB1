@@ -1,0 +1,27 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border-top: 1px solid #687291;
+    text-align: center;
+    margin-bottom: 0.5%;
+}
+.tegsh{
+    background-color: #dfe1e7;
+}
+.sondgoi{
+    background-color: #eeeff2;
+}
+.text{
+    font-family: Tahoma;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.last{
+    background-color: #687291;
+    border: 4px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
